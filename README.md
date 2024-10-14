@@ -215,3 +215,4 @@ country-specific market rates and metrics for strategic insights.
 - Creation of comprehensive interactive dashboards on Power BI.Architecture Diagram:
 
 
+![artchitcheur](https://github.com/user-attachments/assets/1f9e52e1-e8da-45ff-9e12-f48e585be072)

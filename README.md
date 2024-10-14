@@ -202,17 +202,7 @@ procedures, automating the workflow from API data ingestion.
 5. Cleaned data loaded into Power BI; multiple sheets created for diverse
 market insights. Reports and visualizations in Power BI focused on
 country-specific market rates and metrics for strategic insights.
-### Key Takeaways:
-- Understanding of use cases and data implications.
-- Understanding of AWS services and their applications.
-- Implementation of API creation using FastAPI.
-- Implementation of real-time data streams accessing API endpoints.
-- Creation and configuration of Kinesis Firehose with data sources.
-- Setting time triggers for data transformation in Lambda functions.
-- Configuration of Snowpipe and external stages in Snowflake.
-- Creation of Snowpark sessions in Python for data cleaning and column filtering.
-- Implementation of Snowpark sessions deployment as stored procedures.
-- Creation of comprehensive interactive dashboards on Power BI.Architecture Diagram:
+### Architecture Diagram:
 
 
 ![artchitcheur](https://github.com/user-attachments/assets/1f9e52e1-e8da-45ff-9e12-f48e585be072)

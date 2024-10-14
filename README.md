@@ -205,4 +205,5 @@ country-specific market rates and metrics for strategic insights.
 ### Architecture Diagram:
 
 
-![artchitcheur](https://github.com/user-attachments/assets/1f9e52e1-e8da-45ff-9e12-f48e585be072)
+
+![archicteur_V](https://github.com/user-attachments/assets/1785fe55-526d-4ae7-9b23-9174d499746d)
